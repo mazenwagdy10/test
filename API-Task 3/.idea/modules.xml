@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VOIS-Task/API-TestModule/API-TestModule.iml" filepath="$PROJECT_DIR$/VOIS-Task/API-TestModule/API-TestModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VOIS-Task/Common-Utilities/Common-Utilities.iml" filepath="$PROJECT_DIR$/VOIS-Task/Common-Utilities/Common-Utilities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VOIS-Task/FramewworkStructured.iml" filepath="$PROJECT_DIR$/VOIS-Task/FramewworkStructured.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/VOIS-Task.iml" filepath="$PROJECT_DIR$/.idea/VOIS-Task.iml" />
+    </modules>
+  </component>
+</project>
