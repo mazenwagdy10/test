@@ -1,6 +1,0 @@
-stepDefinitions\hooks\Hooks.class
-stepDefinitions\testSteps\CreatePost.class
-runners\Runner.class
-stepDefinitions\testSteps\GetAllPosts.class
-stepDefinitions\testSteps\GetAPost.class
-apiRequests\ApiRequests.class
